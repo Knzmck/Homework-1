@@ -30,5 +30,6 @@ The changes implemented will make the Horiseon website more accessible for e-rea
  
  Changes for website need to be uploaded to hosting service. 
  
- ##Contributers  
+ ## Contributers  
+ 
  Please contact M. Schutz for questions and concerns. 
