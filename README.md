@@ -1,6 +1,6 @@
 # HTML CSS REFACTOR
 
-html-css-refactor
+Accessibility refactor for Horiseon Social Solution Services. 
 
 ## About
 
@@ -22,7 +22,7 @@ The changes implemented will make the Horiseon website more accessible for e-rea
  ## Additional Features
  
  Title was added to website. 
- Styling for new semantic tags was added or adjusted to fit asthetic of page on Style.css.
+ Styling for new semantic tags was added or adjusted to fit  aesthetic of page on Style.css.
  All images have alt descriptions. 
  Div tags removed.
  
@@ -31,6 +31,6 @@ The changes implemented will make the Horiseon website more accessible for e-rea
  
  Changes for website need to be uploaded to hosting service. 
  
- ## Contributers  
+ ## Contributors   
  
  Mackenzie Schutz- please contact me for questions or concerns. 
