@@ -33,4 +33,4 @@ The changes implemented will make the Horiseon website more accessible for e-rea
  
  ## Contributers  
  
- Please contact M. Schutz for questions and concerns. 
+ Mackenzie Schutz- please contact me for questions or concerns. 
