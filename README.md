@@ -14,7 +14,7 @@ The changes implemented will make the Horiseon website more accessible for e-rea
  
  ## Semantic Tags
  
- Added semantic tags header, nav, main, section, aside, button, footer, h1, ect. Adding these tags will improve 
+ Added semantic tags: <header>, nav, main, section, aside, button, footer, h1, ect. Adding these tags will improve 
  accessibility (specifically for e-readers). This will also make future maintenance easier. Elements on the page are now labeled with
  proper semantic tags improving code readability. SEO ratings will also improve as a result of these changes. 
 
